@@ -1,0 +1,274 @@
+ID,Name,disableParam_NT,disableParamReserve1,disableParamReserve2,modelMemoryType,texMemoryType,cameraDitherFadeId,reportAnimMemSizeMb,unk,
+100,,0,0,[0|0|0],1,1,0,12,0
+110,,0,0,[0|0|0],1,1,0,12,0
+120,,0,0,[0|0|0],1,1,0,12,0
+1000,,0,0,[0|0|0],1,1,0,12,0
+2010,Blaidd,0,0,[0|0|0],3,3,101,12,768
+2030,Rennala,0,0,[0|0|0],4,4,101,12,0
+2031,Rennala,0,0,[0|0|0],1,1,101,12,0
+2040,Juvenile Scholar,0,0,[0|0|0],3,3,101,12,0
+2041,Larva of Rot,0,0,[0|0|0],3,3,101,12,0
+2050,Ranni the Witch,0,0,[0|0|0],3,3,101,12,768
+2051,Ranni the Witch,0,0,[0|0|0],3,3,101,12,768
+2060,The Two Fingers,0,0,[0|0|0],4,4,120,12,0
+2070,The Three Fingers,0,0,[0|0|0],4,4,120,12,0
+2100,Black Knife Assassin,0,0,[0|0|0],3,3,101,12,0
+2110,Beast Clergyman,0,0,[0|0|0],4,4,120,12,0
+2120,,0,0,[0|0|0],4,4,101,12,0
+2130,Morgott,0,0,[0|0|0],4,4,110,12,0
+2131,Morgott (Dead),0,0,[0|0|0],3,3,101,12,0
+2140,Omen,0,0,[0|0|0],3,3,110,12,0
+2150,Lightning Ball,0,0,[0|0|0],1,1,101,12,0
+2160,Finger Reader Crone,0,0,[0|0|0],2,2,101,12,0
+2170,Finger Reader Crone,0,0,[0|0|0],2,2,101,12,768
+2180,Melina,0,0,[0|0|0],3,3,101,12,768
+2190,Radagon,0,0,[0|0|0],4,4,101,12,0
+2191,Radagon (Crucified),0,0,[0|0|0],4,4,101,12,0
+2200,Elden Beast,0,0,[0|0|0],4,4,120,12,0
+2270,Giant Crab,0,0,[0|0|0],4,4,110,12,0
+2271,Crab,0,0,[0|0|0],2,2,101,12,0
+2272,Giant Black Crab,0,0,[0|0|0],4,4,110,12,0
+2273,Black Crab,0,0,[0|0|0],2,2,101,12,0
+2274,Giant Albinauric Crab,0,0,[0|0|0],4,4,110,12,0
+2275,Albinauric Crab,0,0,[0|0|0],2,2,101,12,0
+2276,Giant Death Crab,0,0,[0|0|0],4,4,110,12,0
+2277,Death Crab,0,0,[0|0|0],2,2,101,12,0
+2500,Crucible Knight,0,0,[0|0|0],3,3,101,12,768
+3000,Exile Soldier,0,0,[0|0|0],3,3,101,15,0
+3010,Banished Knight,0,0,[0|0|0],3,3,101,12,768
+3020,Exile Soldier (Large),0,0,[0|0|0],3,3,101,12,0
+3050,Commander Niall/O'Neill,0,0,[0|0|0],4,4,110,12,0
+3060,Giant Skeleton,0,0,[0|0|0],3,3,101,12,0
+3061,Giant Beast Skeleton,0,0,[0|0|0],3,3,101,12,0
+3070,Dominula Celebrant,0,0,[0|0|0],3,3,101,12,0
+3080,Imp,0,0,[0|0|0],3,3,101,12,0
+3100,Elemer of the Briar,0,0,[0|0|0],3,3,101,12,0
+3150,Night's Cavalry,0,0,[0|0|0],3,4,110,12,0
+3160,Funeral Steed,0,0,[0|0|0],3,1,110,12,0
+3170,Albinauric Archer,0,0,[0|0|0],3,3,101,12,0
+3171,Phillia- Towering Little Sister,0,0,[0|0|0],3,3,110,12,0
+3180,Albinauric Archer's Wolf,0,0,[0|0|0],2,2,101,12,0
+3181,Red Wolf of Radagon,0,0,[0|0|0],3,3,110,12,0
+3200,Nomadic Merchant,0,0,[0|0|0],3,3,101,12,0
+3201,Frenzied Nomad,0,0,[0|0|0],3,3,101,12,0
+3202,Nomadic Merchant,0,0,[0|0|0],3,3,101,12,0
+3210,Nomadic Merchant's Donkey,0,0,[0|0|0],2,2,101,12,0
+3250,Draconic Tree Sentinel,0,0,[0|0|0],4,4,120,12,0
+3251,Tree Sentinel,0,0,[0|0|0],4,4,120,12,0
+3252,Loretta,0,0,[0|0|0],4,4,120,12,0
+3300,Nox Swordstress/Monk/Nightmaiden,0,0,[0|0|0],3,3,101,12,768
+3320,Silver Tear,0,0,[0|0|0],2,2,101,12,0
+3330,Giant Silver Tear,0,0,[0|0|0],2,2,110,12,0
+3350,Crystalian,0,0,[0|0|0],3,3,101,12,0
+3360,Ancestral Follower,0,0,[0|0|0],3,3,101,12,768
+3361,Putrid Ancestral Follower,0,0,[0|0|0],3,3,101,12,768
+3370,Ancestral Follower Shaman,0,0,[0|0|0],3,3,101,12,768
+3371,Putrid Ancestral Follower Shaman,0,0,[0|0|0],3,3,101,12,768
+3400,Grave Warden Duelist,0,0,[0|0|0],3,3,101,12,0
+3450,Misbegotten,0,0,[0|0|0],3,3,101,15,0
+3451,Scaly Misbegotten,0,0,[0|0|0],1,1,101,12,0
+3460,Leonine Misbegotten,0,0,[0|0|0],3,3,101,12,0
+3470,Albinauric,0,0,[0|0|0],3,3,101,12,0
+3471,Large Albinauric,0,0,[0|0|0],3,3,101,12,0
+3500,Skeletal Militiaman/Bandit/Knight/Grave Warden,0,0,[0|0|0],3,3,101,12,0
+3510,Catacomb Skeleton,0,0,[0|0|0],3,3,101,12,0
+3550,Sanguine Noble,0,0,[0|0|0],3,3,101,12,768
+3560,Godskin Apostle,0,0,[0|0|0],3,3,110,12,0
+3570,Godskin Noble,0,0,[0|0|0],3,3,110,12,0
+3600,Alabaster Lord,0,0,[0|0|0],3,3,101,12,0
+3610,Oracle Envoy,0,0,[0|0|0],3,3,101,12,0
+3620,Oracle Envoy (Large),0,0,[0|0|0],3,3,101,12,0
+3630,Oracle Envoy (Giant),0,0,[0|0|0],3,3,120,12,0
+3640,,0,0,[0|0|0],2,2,110,12,0
+3650,Guardian,0,0,[0|0|0],3,3,101,12,0
+3660,Commoner,0,0,[0|0|0],3,3,101,15,0
+3661,Putrid Corpse,0,0,[0|0|0],3,3,101,12,0
+3662,Putrid Corpse (Large),0,0,[0|0|0],3,3,101,12,0
+3664,Cemetery Shade,0,0,[0|0|0],3,3,101,12,0
+3665,Gostoc,0,0,[0|0|0],3,3,101,12,0
+3666,The Noble Goldmask,0,0,[0|0|0],3,3,101,12,0
+3670,Elder Albinauric,0,0,[0|0|0],3,3,101,12,0
+3700,Depraved Perfumer,0,0,[0|0|0],3,3,101,12,0
+3701,Perfumer,0,0,[0|0|0],3,3,101,12,768
+3702,Glintstone Sorcerer,0,0,[0|0|0],3,3,101,12,768
+3703,Page,0,0,[0|0|0],3,3,101,12,0
+3704,Battlemage,0,0,[0|0|0],3,3,101,12,768
+3710,Azur,0,0,[0|0|0],3,3,101,12,768
+3720,Lusat,0,0,[0|0|0],3,3,101,12,768
+3730,Graven School,0,0,[0|0|0],3,3,110,12,0
+3750,Clayman,0,0,[0|0|0],3,3,101,12,0
+3800,Cleanrot Knight,0,0,[0|0|0],3,3,101,12,0
+3810,Kindred of Rot,0,0,[0|0|0],3,3,101,12,0
+3850,Marionette Soldier,0,0,[0|0|0],3,3,101,12,0
+3860,Avionette Soldier,0,0,[0|0|0],3,3,101,12,768
+3900,Fire Monk,0,0,[0|0|0],3,3,101,12,768
+3901,Blackflame Monk,0,0,[0|0|0],3,3,101,12,768
+3910,Fire Prelate,0,0,[0|0|0],3,3,110,12,0
+3950,Man-Serpent,0,0,[0|0|0],3,3,101,15,0
+3970,Azula Beastman,0,0,[0|0|0],3,3,101,12,0
+4000,Revenant Follower,0,0,[0|0|0],3,3,101,12,0
+4020,Royal Revenant,0,0,[0|0|0],3,3,101,12,0
+4040,Slug,0,0,[0|0|0],2,2,101,12,0
+4050,Kaiden Sellsword,0,0,[0|0|0],3,3,101,12,768
+4060,Kaiden Sellsword's Horse,0,0,[0|0|0],2,2,101,12,0
+4070,Wolf,0,0,[0|0|0],2,2,101,12,0
+4071,White Wolf,0,0,[0|0|0],1,1,101,12,0
+4080,Rat,0,0,[0|0|0],2,2,101,12,0
+4090,Giant Rat,0,0,[0|0|0],3,3,101,12,0
+4100,Demi-Human,0,0,[0|0|0],2,2,101,12,0
+4101,Demi-Human (Large),0,0,[0|0|0],2,2,101,12,0
+4110,Demi-Human Shaman,0,0,[0|0|0],2,2,101,12,0
+4120,Demi-Human Chief,0,0,[0|0|0],2,2,101,12,0
+4130,Demi-Human Queen,0,0,[0|0|0],4,4,110,12,768
+4140,Snail,0,0,[0|0|0],3,3,101,12,0
+4150,Basilisk,0,0,[0|0|0],3,3,101,12,0
+4160,Stray (Large),0,0,[0|0|0],2,2,101,12,0
+4161,Stray,0,0,[0|0|0],2,2,101,12,0
+4162,Farum Azula Stray (Large),0,0,[0|0|0],2,2,101,12,0
+4163,Farum Azula Stray,0,0,[0|0|0],2,2,101,12,0
+4164,Bloodbane Stray (Large),0,0,[0|0|0],2,2,101,12,0
+4165,Bloodbane Stray,0,0,[0|0|0],2,2,101,12,0
+4166,Rotten Stray (Large),0,0,[0|0|0],2,2,101,12,0
+4167,Rotten Stray,0,0,[0|0|0],2,2,101,12,0
+4170,Putrid Flesh,0,0,[0|0|0],2,2,101,12,0
+4171,Putrid Flesh (Large),0,0,[0|0|0],3,3,101,12,0
+4180,Spirit Jellyfish,0,0,[0|0|0],2,2,101,12,0
+4190,Large Scarab,0,0,[0|0|0],2,2,101,12,0
+4191,Scarab,0,0,[0|0|0],1,1,101,12,0
+4192,Giant Scarab,0,0,[0|0|0],1,1,101,12,0
+4200,Man-Bat,0,0,[0|0|0],2,2,101,12,512
+4201,Operatic Bat,0,0,[0|0|0],3,3,101,12,0
+4210,Warhawk,0,0,[0|0|0],3,3,101,12,768
+4220,Land Octopus (Large),0,0,[0|0|0],3,3,120,12,0
+4230,Land Octopus (Small),0,0,[0|0|0],3,3,101,12,0
+4240,Fingercreeper,0,0,[0|0|0],3,3,110,12,0
+4241,Fingercreeper (Large),0,0,[0|0|0],3,3,120,12,0
+4250,Fingercreeper (Small),0,0,[0|0|0],3,3,101,12,0
+4260,Erdtree Burial Watchdog,0,0,[0|0|0],3,3,101,12,0
+4270,Elder Lion,0,0,[0|0|0],4,4,110,12,0
+4280,Giant Ant,0,0,[0|0|0],3,3,110,12,0
+4281,Giant Ant (Skull Plate),0,0,[0|0|0],3,3,120,12,0
+4290,Bloodhound Knight,0,0,[0|0|0],3,3,101,12,0
+4300,Wandering Noble,0,0,[0|0|0],3,3,101,15,768
+4310,Lordsworn Soldier,0,0,[0|0|0],3,3,101,15,0
+4311,Godrick Soldier,0,0,[0|0|0],3,3,101,12,768
+4312,Raya Lucaria Soldier,0,0,[0|0|0],3,3,101,12,768
+4313,Leyndell Soldier,0,0,[0|0|0],3,3,101,12,768
+4314,Radahn Soldier,0,0,[0|0|0],3,3,101,12,768
+4315,Mausoleum Soldier,0,0,[0|0|0],3,3,101,12,768
+4316,Haligtree Soldier,0,0,[0|0|0],3,3,101,12,768
+4321,Vulgar Militia,0,0,[0|0|0],2,2,101,12,0
+4340,Mad Pumpkin Head,0,0,[0|0|0],4,4,110,12,0
+4341,Mad Pumpkin Head (Thin),0,0,[0|0|0],4,4,110,12,0
+4350,Lordsworn Knight,0,0,[0|0|0],3,3,101,12,0
+4351,Godrick Knight,0,0,[0|0|0],3,3,101,12,768
+4352,Cuckoo Knight,0,0,[0|0|0],3,3,101,12,768
+4353,Leyndell Knight,0,0,[0|0|0],3,3,101,12,768
+4354,Redmane Kngiht,0,0,[0|0|0],3,3,101,12,768
+4355,Mausoleum Knight,0,0,[0|0|0],3,3,101,12,768
+4356,Haligtree Knight,0,0,[0|0|0],3,3,101,12,768
+4358,,0,0,[0|0|0],3,3,101,12,768
+4360,Lordsworn Knight's Horse,0,0,[0|0|0],3,3,101,12,0
+4361,Godrick Knight's Horse,0,0,[0|0|0],3,3,101,12,0
+4362,Cuckoo Knight's Horse,0,0,[0|0|0],3,3,101,12,0
+4363,Leyndell Knight's Horse,0,0,[0|0|0],3,3,101,12,0
+4364,Redmane Knight's Horse,0,0,[0|0|0],3,3,101,12,0
+4365,Mausoleum Knight's Horse,0,0,[0|0|0],3,3,101,12,0
+4368,,0,0,[0|0|0],3,3,101,12,0
+4370,Foot Soldier,0,0,[0|0|0],3,3,101,12,0
+4371,Godrick Foot Soldier,0,0,[0|0|0],3,3,101,12,0
+4372,Raya Lucaria Foot Soldier,0,0,[0|0|0],3,3,101,12,0
+4373,Leyndell Foot Soldier,0,0,[0|0|0],3,3,101,12,0
+4374,Radahn Foot Soldier,0,0,[0|0|0],3,3,101,12,0
+4375,Mausoleum Foot Soldier,0,0,[0|0|0],3,3,101,12,0
+4376,Haligtree Foot Soldier,0,0,[0|0|0],3,3,101,12,0
+4377,Highwayman,0,0,[0|0|0],3,3,101,12,0
+4380,Starcaller,0,0,[0|0|0],3,3,101,15,768
+4381,Guilty,0,0,[0|0|0],3,3,101,12,768
+4382,Stonedigger,0,0,[0|0|0],3,3,101,12,0
+4383,Glintstone Digger,0,0,[0|0|0],3,3,101,12,0
+4384,Glintstone Digger - Small Sack,0,0,[0|0|0],3,3,101,12,0
+4385,Disciple of Rot,0,0,[0|0|0],3,3,101,12,0
+4420,Giant Crayfish,0,0,[0|0|0],4,4,110,12,0
+4421,Giant Crayfish,0,0,[0|0|0],4,4,110,12,0
+4430,Watcher Stones,0,0,[0|0|0],2,2,101,12,0
+4440,Land Squirt,0,0,[0|0|0],3,3,101,12,0
+4441,Giant Land Squirt,0,0,[0|0|0],3,3,120,12,0
+4442,Giant Rotten Land Squirt,0,0,[0|0|0],3,3,120,12,0
+4450,Walking Mausoleum,0,0,[0|0|0],5,5,-1,12,0
+4460,Flame Chariot,0,0,[0|0|0],4,4,120,12,0
+4470,Abductor Virgin,0,0,[0|0|0],3,3,110,12,0
+4480,Miranda Blossom,0,0,[0|0|0],3,3,110,12,768
+4481,Miranda Sprout,0,0,[0|0|0],2,2,101,12,0
+4482,Rotten Miranda Blossom,0,0,[0|0|0],3,3,110,12,0
+4483,Rotten Miranda Sprout,0,0,[0|0|0],2,2,101,12,768
+4490,Living Jar Warrior,0,0,[0|0|0],3,3,110,12,0
+4491,Living Jar,0,0,[0|0|0],3,3,101,12,0
+4492,Greatjar,0,0,[0|0|0],7,7,120,12,0
+4500,Flying Dragon,0,0,[0|0|0],5,5,120,12,0
+4501,Decaying Ekzykes,0,0,[0|0|0],5,5,120,12,0
+4502,Glintstone Dragon,0,0,[0|0|0],5,5,120,12,0
+4503,Borealis the Freezing Fog,0,0,[0|0|0],5,5,120,12,0
+4504,Elder Dragon Greyoll,0,0,[0|0|0],5,5,120,12,0
+4505,Flying Dragon (Small),0,0,[0|0|0],5,5,120,12,0
+4510,Ancient Dragon,0,0,[0|0|0],5,5,120,12,0
+4511,Lichdragon Fortissax,0,0,[0|0|0],5,5,120,12,0
+4520,Dragonlord Placidusax,0,0,[0|0|0],5,5,120,12,0
+4550,Giant Dog,0,0,[0|0|0],3,3,110,12,0
+4560,Giant Crow,0,0,[0|0|0],3,3,110,12,0
+4561,Giant Crow,0,0,[0|0|0],3,3,110,12,0
+4570,Wormface,0,0,[0|0|0],4,4,110,12,0
+4580,Large Wormface,0,0,[0|0|0],4,4,120,12,0
+4600,Troll,0,0,[0|0|0],4,4,120,12,0
+4601,Troll Knight,0,0,[0|0|0],4,4,120,12,0
+4602,Snowfield Troll,0,0,[0|0|0],4,4,120,12,0
+4603,Stonedigger Troll,0,0,[0|0|0],4,4,120,12,0
+4604,War Counselor Iji,0,0,[0|0|0],4,4,120,12,768
+4620,Astel- Naturalborn of the Void,0,0,[0|0|0],6,6,120,12,0
+4630,Runebear,0,0,[0|0|0],4,3,120,12,0
+4640,Ulcerated Tree Spirit,0,0,[0|0|0],4,4,120,12,0
+4650,Dragonkin Soldier,0,0,[0|0|0],4,4,120,12,0
+4660,Guardian Golem,0,0,[0|0|0],5,5,120,12,0
+4670,Ancestor Spirit,0,0,[0|0|0],4,4,120,12,0
+4680,Falling-star Beast,0,0,[0|0|0],4,4,120,12,0
+4690,Grafted Scion,0,0,[0|0|0],4,4,110,12,0
+4710,God-Devouring Serpent / Rykard- Lord of Blasphemy,0,0,[0|0|0],6,6,120,12,0
+4711,Rykard's Corpse,0,0,[0|0|0],4,6,110,12,0
+4720,Godfrey- First Elden Lord,0,0,[0|0|0],5,5,110,12,768
+4721,Hoarah Loux- Warrior,0,0,[0|0|0],1,1,110,12,768
+4730,Starscourge Radahn,0,0,[0|0|0],5,5,120,12,0
+4750,Godrick the Grafted,0,0,[0|0|0],5,5,110,12,768
+4751,Godrick's Corpse,0,0,[0|0|0],3,5,101,12,0
+4760,Fire Giant,0,0,[0|0|0],7,7,120,12,0
+4770,Valiant Gargoyle,0,0,[0|0|0],5,5,110,12,0
+4800,Mohg- Lord of Blood,0,0,[0|0|0],4,4,110,12,768
+4801,Mohg- Lord of Blood (Unknown),0,0,[0|0|0],3,3,101,12,0
+4810,Erdtree Avatar,0,0,[0|0|0],4,4,110,12,0
+4811,Putrid Avatar,0,0,[0|0|0],4,4,110,12,0
+4820,Omenkiller,0,0,[0|0|0],3,3,101,12,768
+4910,Magma Wyrm,0,0,[0|0|0],4,4,120,12,0
+4911,Great Wyrm Theodorix,0,0,[0|0|0],5,5,120,12,0
+4950,Tibia Mariner,0,0,[0|0|0],3,3,101,12,0
+4960,Giant Skeleton Torso,0,0,[0|0|0],4,4,120,12,0
+4980,Death Rite Bird,0,0,[0|0|0],5,5,110,12,768
+6001,Eagle,0,0,[0|0|0],2,2,101,1.5,768
+6010,Deer,0,0,[0|0|0],2,2,101,1.5,0
+6031,Bear,0,0,[0|0|0],2,2,101,1.5,0
+6040,Owl,0,0,[0|0|0],2,2,101,1.5,0
+6050,Boar,0,0,[0|0|0],2,2,101,1.5,0
+6060,Goat,0,0,[0|0|0],2,2,101,1.5,0
+6070,Murre,0,0,[0|0|0],2,2,101,1.5,0
+6072,Carrier Pigeon,0,0,[0|0|0],2,2,101,1.5,0
+6080,Dragonfly,0,0,[0|0|0],2,2,101,1.5,768
+6081,Yellow Dragonfly,0,0,[0|0|0],2,2,101,1.5,768
+6082,Great Dragonfly,0,0,[0|0|0],2,2,101,1.5,768
+6090,Turtle,0,0,[0|0|0],2,2,101,1.5,0
+6091,Miriel- Pastor of Vows,0,0,[0|0|0],4,4,110,1.5,0
+6100,Springhare,0,0,[0|0|0],2,2,101,1.5,0
+7000,Fallen Hawks Soldier,0,0,[0|0|0],2,2,101,12,0
+7100,Ancient Hero,0,0,[0|0|0],2,2,101,12,0
+8000,Torrent,0,0,[0|0|0],3,3,101,12,0
+8100,Ballista,0,0,[0|0|0],3,7,2,12,0
+8101,Trebuchet,0,0,[0|0|0],3,7,2,12,0
+8110,Dragon-faced Flamethrower,0,0,[0|0|0],3,7,2,12,0
+8120,Merciless Chariot,0,0,[0|0|0],5,7,1,12,0

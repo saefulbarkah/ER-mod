@@ -9,4 +9,4 @@
 tests/*
 
 # Ignore all files and subdirectories inside the 'tests' folder
-tests/*
+tests
