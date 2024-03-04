@@ -1,0 +1,12 @@
+# Ignore .rar, .zip, and .7z files
+*.rar
+*.zip
+*.7z
+
+# Ignore .bin and .bin.prev files
+*.bin
+*.bin.prev
+tests/*
+
+# Ignore all files and subdirectories inside the 'tests' folder
+tests/*
