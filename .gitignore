@@ -8,6 +8,7 @@
 *.bin.prev
 tests/*
 Releases
+extracted
 
 # Ignore all files and subdirectories inside the 'tests' folder
 tests
