@@ -1,0 +1,203 @@
+descrição,linha,lv01_BorderDist,lv12_BorderDist,lv23_BorderDist,lv34_BorderDist,lv45_BorderDist,tex_lv01_BorderDist,drawDist,shadowDrawDist,motionBlur_BorderDist,DistantViewModel_BorderDist,LimtedActivate_BorderDist_forGrid,shadowDrawAlphaTestDist
+"terrenos, pedras de abismos da raiz profunda 1 e mansão vulcanica 1",2,25,25,25,25,25,25,2000,200,100,-1,-1,50
+mina do vilarejo da ravina 1 e academia de raya lucaria 1,5,200,200,200,200,200,25,250,50,100,-1,-1,50
+personagem,8,25,25,25,25,25,-1,25,-1,100,-1,-1,-1
+Varré e Yuria (NPC) em limgrave,11,25,25,25,25,25,-1,100,-1,100,-1,-1,-1
+tartaruga em limgrave,12,0,25,25,25,25,-1,100,-1,100,-1,-1,-1
+soldados de godrick,13,25,50,50,50,50,25,100,-1,100,-1,-1,-1
+"alexander (NPC), ursos em arredores da capital, lobos gigantes de mansão cariana, cavalaria de godrick e velha dos dois dedos (NPC)",14,25,25,25,25,25,25,100,-1,100,-1,-1,-1
+gigantes de pedra e tartaruga de liurnia (NPC),15,25,25,25,25,25,50,400,-1,100,-1,-1,-1
+"pote gigante de caelid, dragão de limgrave e cabeça de Rykard",16,25,50,50,50,50,-1,400,-1,100,-1,-1,-1
+mausoleu (tartaruga),17,50,200,500,500,500,25,500,50,100,-1,-1,50
+caveiras em mausoleu de liurnia,29,0,0,0,0,0,-1,50,-1,100,-1,-1,-1
+arbustos em cavernas turvaguas e no lago de limgrave,37,0,0,50,50,50,15,50,-1,100,-1,-1,-1
+pedras de penhascos robustas e pedras de caelid 1,47,25,50,100,100,100,1200,2150,200,100,-1,-1,50
+pedras em peninsula das lágrimas e pedras pontiagudas de monte gelmir/plato altus,48,0,50,100,100,100,25,200,200,100,-1,-1,50
+carruagem em plato altus e portão de mausoleu (tartaruga) de montanha dos gigantes,51,0,200,200,200,200,25,200,50,100,-1,-1,50
+"piso da ponte quebrada da academia de raya lucaria, estrada de pedras de limgrave, escada de ordina e arvore morta de montanha dos gigantes",52,0,100,100,100,100,25,400,50,100,-1,-1,50
+"carruagem em liurnia/limgrave, escombros em catedral de manus celes, lápide gigante em peninsula das lágrimas, andaimes em caelid 1, patamar em vilarejo dos albinauricos e obeliscos de estrada bellum",53,25,50,50,50,50,50,400,50,100,-1,-1,50
+"pedras de caelid 2, mansão cariana 1, castelo morne 1, arvore morta em peninsula das lágrimas, portal para elevador de dectus de perto 1 e arvore morta em caelid",54,50,100,100,100,100,50,400,200,100,-1,-1,50
+"objetos variados, andaimes de castelo sol, guarda corpo de santuario bestial, caixões em limgrave, mansão cariana 2 e arvores de castelo morne",55,25,50,100,100,100,25,400,-1,100,-1,-1,-1
+"arbustos de folhas grandes, itens e bau em restos da dinastia uhl",56,25,50,50,50,50,25,100,-1,100,-1,-1,-1
+portão do santuario bestial e abominações de caelid,58,25,50,50,50,50,25,200,50,100,-1,-1,50
+corpo em cemiterio a deriva,59,0,25,25,25,25,25,100,-1,100,-1,-1,-1
+musgo de caverna de cristal,62,0,0,0,0,0,-1,50,-1,100,-1,-1,-1
+balão em liurnia,66,0,100,100,100,100,-1,200,-1,100,-1,-1,-1
+pedras de penhascos pontiagudas e pedras da base de monte Gelmir,67,0,25,25,25,25,1000,2000,200,100,-1,-1,50
+estatua de marika em peninsula das lágrimas e estatua de radagon em liurnia,68,0,50,50,50,50,25,100,-1,100,-1,-1,-1
+pedras pequenas de plato altus,70,0,25,25,25,25,50,100,-1,100,-1,-1,-1
+pedras medianas de plato altus,71,0,25,25,25,25,100,100,-1,100,-1,-1,50
+efeito de portal para academia de raya lucaria,74,0,0,0,0,0,50,25,-1,100,-1,-1,-1
+pedras de campo de neve consagrado e pedras de plato altus 1,75,100,100,100,100,100,200,200,200,100,-1,-1,50
+pedras de montanha dos gigantes 1 e pedras de plato altus 2,76,200,400,400,400,400,1800,2000,200,100,-1,-1,50
+folhagem de ruina em peninsula das lágrimas,79,-1,-1,-1,-1,-1,-1,-1,-1,100,-1,-1,-1
+mini estatua de marika em rio ainsel,81,0,0,0,0,0,25,50,-1,100,-1,-1,-1
+mureta de pedra de caelid,82,400,400,400,400,400,-1,400,-1,100,-1,-1,-1
+crucifixos em peninsula das lágrimas,83,0,0,0,0,0,-1,100,-1,100,-1,-1,-1
+arvore da semente dourada em liurnia,89,0,0,0,0,0,-1,100,-1,100,-1,-1,-1
+corpos de soldados em liurnia,90,0,0,0,0,0,25,50,-1,100,-1,-1,-1
+"catedral de manus celes, os quatro campanários, edificações em limgrave/caelid/liurnia/plato altus de longe e igreja da tervore menor de longe",93,1200,2350,2350,2350,2350,400,2350,-1,100,-1,250,-1
+"portão de limgrave, ponte quebrada de monte Gelmir, ruinas em campo de neve consagrado, igreja de elleh, torre da Ranni e pedaços de ruina de farum azula em limgrave de perto",94,200,200,200,200,200,50,250,50,100,-1,-1,50
+terreno de vilarejo de raya lucaria e estatua gigante da entrada do tumulo do heroi conquistador de gigantes,96,0,0,0,0,0,25,400,-1,100,-1,-1,-1
+salão de estudos cariano/santuario bestial de longe,98,2000,2000,2000,2000,2000,800,2150,-1,100,-1,250,-1
+salão de estudos cariano/ponte do dragão em caelid/santuario bestial de perto,99,50,200,200,200,200,25,400,50,100,-1,-1,50
+ponte para castelo da juba vermelha de longe,100,0,0,0,0,0,400,1600,-1,100,-1,400,-1
+"ponte para castelo da juba vermelha de perto, totens do santuario bestial, arbustos em ponte do dragão em caelid e interior de santuario bestial",101,50,100,100,100,100,100,400,50,100,-1,-1,50
+estatuas de cavalo em liurnia de perto,103,0,0,0,0,0,-1,350,-1,100,-1,-1,-1
+mansão vulcanica de longe,104,0,0,0,0,0,400,1800,-1,100,-1,400,-1
+mansão vulcanica de perto,107,50,400,400,400,400,25,400,50,100,-1,-1,50
+academia de raya lucaria de longe,108,1600,1600,1600,1600,1600,600,1600,-1,100,-1,200,50
+academia de raya lucaria de perto,109,0,0,0,0,0,200,200,100,100,-1,-1,-1
+acesso a academia de raya lucaria de longe,110,0,1200,1200,1200,1200,650,1200,50,100,-1,200,50
+acesso a academia de raya lucaria de perto 1,111,0,0,0,0,0,25,200,50,100,-1,-1,50
+acesso a academia de raya lucaria de perto 2,112,0,25,25,25,25,25,200,50,100,-1,-1,50
+castelo tempesveu de longe,113,0,1800,1800,1800,1800,400,2000,-1,100,-1,200,-1
+muros do castelo tempesveu de perto e capela da antecipação de longe 1,114,0,50,50,50,50,200,200,50,100,-1,-1,50
+mansão cariana/castelo da juba vermelha/torres de peninsula das lagrimas de longe,115,1000,1800,1800,1800,1800,400,1800,-1,100,-1,375,-1
+"torres de peninsula das lagrimas de perto, castelo da juba vermelha, telhado de torre em mansão cariana, andaimes em caelid 2, forte gael, castelo morne 2 e castelo sol",116,50,400,400,400,400,200,400,50,100,-1,-1,50
+Sellia/edificações de plato altus/cabana do mercador ascetico de longe,117,0,1000,1000,1000,1000,400,1000,-1,100,-1,225,-1
+"ruinas em peninsula das lagrimas/caelid, campanario de sellia, edificações em estrada bellum, acesso ao subsolo em limgrave e ruinas em montanha dos gigantes",118,100,200,200,200,200,25,300,50,100,-1,-1,50
+arcos/pilares em caelid/limgrave de longe,119,2300,2300,2300,2300,2300,400,2300,50,100,-1,400,50
+arcos/pilares em limgrave e ponte quebrada de plato altus,120,100,400,400,400,400,50,400,200,100,-1,-1,50
+vilarejo/ponte quebrada da academia raya lucaria de longe,121,1000,1400,1400,1400,1400,600,1400,-1,100,-1,300,-1
+"ponte quebrada/vilarejo de raya lucaria de perto, ruina em ordina e ponte quebrada de vila submersa de liurnia",122,25,400,400,400,400,50,400,50,100,-1,-1,50
+cranio gigante de pedra branca em caelid de longe 1,123,0,0,0,0,0,400,2200,-1,100,-1,400,50
+cranio gigante de pedra branca em caelid de perto,124,200,200,200,200,200,25,400,200,100,-1,-1,50
+portal para elevador de dectus/muro externo de leyndell de longe e leyndell de longe 1,125,1400,1600,1600,1600,1600,-1,1800,-1,100,-1,900,-1
+"portal para elevador de dectus de perto 2, edificações em arredores da capital, base de muro intermediario de leyndell e acesso a leyndell",126,200,400,600,600,600,50,900,50,100,-1,-1,50
+pedaços de ruina de farum azula em limgrave de longe,127,0,0,0,0,0,400,600,50,100,-1,225,50
+estatuas de cavalo de plato altus e liurnia de perto,128,0,0,0,0,0,-1,250,-1,100,-1,-1,-1
+ponte quebrada de limgrave/ponte do salão de estudos cariano de longe,129,2200,2200,2200,2200,2200,1000,2400,-1,100,-1,525,-1
+ponte do salão de estudos cariano/ponte quebrada de limgrave de perto,130,500,500,500,500,500,25,650,50,100,-1,-1,50
+pedras de Monte Gelmir e pedras de plato altus 3,133,0,0,0,0,0,1400,1800,200,100,-1,-1,50
+cranio de pedra gigante branca em caelid de longe 2,134,0,0,0,0,0,400,1200,-1,100,-1,400,-1
+acesso ao subsolo em caelid,136,0,50,50,50,50,25,100,-1,100,-1,-1,-1
+entrada de catacumbas dos mortos de guerra/esconderijo de sellia de longe,137,200,200,200,200,200,25,1200,50,100,-1,100,50
+ponte para montanha dos gigantes,138,0,0,0,0,0,25,600,50,100,-1,-1,50
+arvores gigantes de caelid de longe,139,0,400,400,400,400,400,950,-1,100,-1,300,-1
+ponte de madeira em peninsula das lágrimas,144,50,100,100,100,100,25,400,-1,100,-1,-1,-1
+portão gigante dos arredores da capital,145,0,0,400,400,400,25,400,50,100,-1,-1,50
+terreno dos arredores da capital,146,0,0,0,0,0,25,400,-1,100,-1,-1,-1
+pedras e crânios gigantes em pico da chama,148,0,0,0,0,0,25,200,200,100,-1,-1,50
+gigantes congelados em pico das chama e pedras de plato altus 4,151,0,0,50,100,100,400,400,200,100,-1,-1,50
+pedras de montanha dos gigantes 2,152,0,0,0,0,0,25,200,200,100,-1,-1,50
+arvores gigantes de caelid de perto,153,25,100,100,100,100,50,300,50,100,-1,-1,50
+ruinas em catedral de manus celes,156,0,0,0,0,0,25,100,-1,100,-1,-1,-1
+cristais menores de três irmãs,157,25,25,25,25,25,200,200,-1,100,-1,-1,-1
+dois dedos gigantes da Ranni,158,0,0,0,0,0,25,50,-1,100,-1,-1,-1
+cristais maiores de três irmãs,160,0,0,0,0,0,200,200,-1,100,-1,-1,-1
+crucifixos em mansão vulcanica e arvore em igreja da tervore menor,162,0,0,0,0,0,50,200,-1,100,-1,-1,-1
+cemiterio em limgrave,163,0,50,50,50,50,25,100,-1,100,-1,-1,-1
+tronco de arvores mortas em campo de neve consagrado de longe (?),164,0,0,0,0,0,-1,400,50,100,-1,-1,50
+tronco de arvores mortas em campo de neve consagrado,165,-1,-1,-1,-1,-1,-1,-1,-1,100,-1,-1,-1
+dardos gigantes em arredores da capital,166,0,0,0,0,0,25,200,-1,100,-1,-1,-1
+cemiterio em peninsula das lágrimas,167,0,25,25,25,25,25,100,-1,100,-1,-1,-1
+graça em imgrave,172,0,0,0,0,0,-1,50,-1,100,-1,-1,-1
+oceano 1,173,0,25,25,25,25,-1,400,-1,100,-1,-1,-1
+pantano em plato altus e espelho d'agua em mansão cariana,174,50,50,50,50,50,-1,200,-1,100,-1,-1,-1
+oceano 2,178,0,0,0,0,0,-1,600,-1,100,-1,-1,-1
+tronco da tervore,180,0,0,0,0,0,-1,4400,-1,100,-1,600,-1
+copa da tervore,181,0,0,0,0,0,-1,2200,-1,100,-1,600,-1
+céu,182,0,0,0,0,0,25,25,-1,100,-1,-1,-1
+núvens,187,0,25,25,25,25,25,25,-1,100,-1,-1,-1
+núvens de castelo tempesveu/academia de raya lucaria/leyndell,188,0,25,25,25,25,25,25,-1,100,-1,-1,-1
+núvens de montanha dos gigantes,192,0,25,25,25,25,25,25,-1,100,-1,-1,-1
+torre de caelid de longe,197,0,0,0,0,0,800,1550,-1,100,-1,400,-1
+tronco das tervores menores,198,0,0,0,0,0,25,2300,50,100,-1,-1,50
+torres de liurnia/limgrave de perto,201,0,0,0,0,0,1000,1800,50,100,-1,-1,50
+terreno superfície,204,0,0,0,0,0,25,1800,50,100,-1,-1,50
+raiz gigante em caelid,206,200,200,200,200,200,25,400,50,100,-1,-1,50
+"aqueduto de siofra 1, caixas em cemiterio a deriva e alavanca em tunel pedrilhante de raya lucaria",207,50,100,100,100,100,25,100,-1,100,-1,-1,-1
+"pedras do castelo tempesveu, Nokstella 1, aqueduto de siofra 2, totens em rio siofra, edificações de arvore sacra e raizes finas de elphael 1",208,25,100,100,100,100,25,400,50,100,-1,-1,50
+"pedras do rio siofra 1, academia de raya lucaria 2, torre do elevador para montanha dos gigantes, arcos/pilares em liurnia de perto 1 e elphael",209,100,100,100,100,100,25,600,200,100,-1,-1,50
+"coroamento das torres de caelid/limgrave de perto, academia de raya lucaria 3, guarda corpo de ponte quebrada de limgrave e degraus em ponte divina",210,100,100,100,100,100,25,1200,50,100,-1,-1,50
+"torre de limgrave vista do castelo tempesveu, campo noturno sagrado 1, edificações de Nokron 1, Nokstella 2, guarda corpo do portal para montanha dos gigantes, arcos/pilares em liurnia de perto 2, capela da antecipação 1, topo da torre de limgrave 1 e ruinas do rio siofra 1",211,100,200,200,200,200,50,1200,50,100,-1,-1,50
+"ruinas do rio siofra 2, pedras de abismos da raiz profunda 2, edificações de Nokron 2, grande claustro 1 e base de estatua de marika em capela da antecipação",212,50,200,200,200,200,100,800,200,100,-1,-1,50
+"academia de raya lucaria 4, monte gelmir/plato altus vistos de academia de raya lucaria, mansão vulcanica 3 e restos da dinastia uhl",213,100,600,600,600,600,15,2000,50,100,-1,-1,50
+castelo tempesveu 1,214,25,1200,1200,1200,1200,15,1200,50,100,-1,-1,50
+"castelo tempesveu 2, campo noturno sagrado 2, ruinas do rio siofra 3, edificações de rio siofra 1, academia de raya lucaria 5 e mansão vulcanica 4",215,200,400,400,400,400,25,1400,50,100,-1,-1,50
+"castelo tempesveu 3, terreno de Nokron 1, academia de raya lucaria 6 e mansão vulcanica 5",216,150,400,400,400,400,25,600,50,100,-1,-1,50
+"castelo tempesveu 4, terreno de Nokron 2, edificações de abismos da raiz profunda 1, Nokstella 3, aqueduto de siofra 3, ruinas do palacio de uld e edificações de rio siofra 2",217,1200,1200,1200,1200,1200,50,1400,50,100,-1,-1,50
+"castelo tempesveu 5, campo noturno sagrado 3, Nokstella de longe, edificações de rio siofra 3, tronco de arvore morta em rio siofra e muro do lago da podridão",218,200,400,400,400,400,50,1200,50,100,-1,-1,50
+"castelo tempesveu 6, pedras do rio siofra 2, edificações de abismos da raiz profunda 2, terreno do rio siofra 1, mansão vulcanica 6, capela da antecipação 2, ruinas do rio siofra 4 Nokstella 4",219,200,200,200,200,200,50,1200,200,100,-1,-1,50
+"pedras do teto rio siofra 1, edificações de Nokron 3, ruinas do rio siofra 5 e edificações de rio siofra 4",220,400,400,400,400,400,50,800,200,100,-1,-1,50
+"castelo tempesveu 7, campo noturno sagrado 4, pedras do palacio de Mohgwyn 1, ruinas do rio siofra 6, pedras em restos da dinastia uhl, edificações de Nokron 4, edificações de rio siofra 5 e Nokstella 5",221,200,800,800,800,800,100,1200,200,100,-1,-1,50
+"tervore em leyndell, porta da torre vista do castelo tempesveu, Nokstella 6, campos subterraneos de reclusão 1, pedras de ruina de farum azula, mansão vulcanica 7, base de torre de caelid de perto, academia de raya lucaria 7, grande claustro 2, abismos da raiz profunda e montanha dos gigantes vista de ruina de farum azula",222,200,1200,1200,1200,1200,50,1200,200,100,-1,-1,50
+pedras do palacio de Mohgwyn 2,223,0,0,0,0,0,100,400,200,100,-1,-1,50
+tronco de arvore morta em Palácio de Mohgwyn,224,0,0,0,0,0,50,200,50,100,-1,-1,50
+"terreno do rio siofra 2, catacumbas de wyndham 1, leyndell 1, barris/caixas em cemiterio a deriva, porta de madeira em mesa-redonda e elevador de catacumbas do fundo dos penhascos",225,25,100,100,100,100,25,600,50,100,-1,-1,50
+"pedras dos arredores da capital 1, montanha dos gigantes de longe, campos subterraneos de reclusão 2, tumulo do heroi conquistador de gigantes 1, catacumbas turvaguas, caverna de cristal da academia e catacumbas da montanha dos gigantes",226,50,100,100,100,100,25,2400,200,100,-1,-1,50
+"avenida de leyndell, lareira em castelo tempesveu, tumulo do heroi de auriza 1, mina do vilarejo da ravina 2 e precipicio pontilhado de ruinas 1",227,25,50,50,50,50,25,400,-1,100,-1,-1,-1
+"pedras do rio siofra 3, caminho oculto para arvore sacra 1, tumulo do heroi de auriza 2, interior do salão de estudos cariano, leyndell 2 e topo da torre de limgrave 2",228,50,100,100,100,100,25,600,200,100,-1,-1,50
+"caminho oculto para arvore sacra 2, teias em catacumbas da ala do mausoleu, academia de raya lucaria 8, interior da torre de limgrave e arvores de leyndell 1",229,100,100,100,100,100,100,100,50,100,-1,-1,50
+"teto rio siofra, tumulo do heroi conquistador de gigantes 2, biblioteca de raya lucaria 1 e precipicio pontilhado de ruinas 2",230,100,100,100,100,100,25,800,50,100,-1,-1,50
+"montanha dos gigantes vista de academia raya lucaria, castelo tempesveu 8 e biblioteca de raya lucaria 2",231,100,200,200,200,200,15,4000,50,100,-1,-1,50
+"terreno do rio siofra 3, campo de neve consagrado de longe, mansão vulcanica 8, acesso superior da academia de raya lucaria e pedras dos arredores da capital 2",232,200,1400,1400,1400,1400,25,1800,200,100,-1,-1,50
+"templo de eiglay 1, castelo tempesveu 9, academia de raya lucaria 9 e elevador da caverna de cristal da academia",233,50,100,100,100,100,25,100,50,100,-1,-1,50
+"pedras do rio siofra 4, elevador da torre de limgrave, academia de raya lucaria 10 e torre de leyndell",234,0,200,200,200,200,25,800,200,100,-1,-1,50
+"pedras do teto rio siofra 2, arvores de leyndell 2, grande claustro 3 e portão em tumulo do heroi consagrado",235,25,200,200,200,200,25,800,200,100,-1,-1,50
+"pedras do teto rio siofra 3, terreno de Nokron 3 e torre dos arredores da capital",236,0,400,400,400,400,25,800,200,100,-1,-1,50
+"efeito da tervore, lago da raiz, lua da ranni, pedras do palacio de Mohgwyn 3, neblina em limgrave, pedras do rio siofra 5, plato altus visto de arvore sacra, capela da antecipação de longe 2, ruinas de restos da dinastia uhl e efeito no ceu de academia de raya lucaria",237,800,800,800,800,800,1600,2200,200,100,-1,-1,50
+"piso da mesa-redonda, taças de pedra em ruina de farum azula 1 e mansão vulcanica 9",239,0,25,25,25,25,25,50,50,100,-1,-1,50
+mansão vulcanica 10,240,25,50,50,50,50,25,100,50,100,-1,-1,50
+mansão vulcanica 11,241,25,100,100,100,100,25,200,50,100,-1,-1,50
+"arvores de Leyndell 3, obelisco/quadros/lava sólida em mansão vulcanica e ruinas do rio siofra 7",242,25,25,200,200,200,25,200,50,100,-1,-1,50
+"porta de pedra em castelo tempesveu, mansão vulcanica 12, templo de eiglay 2, base de estatuas em leyndell e arvores de leyndell 4",243,50,100,200,200,200,50,200,50,100,-1,-1,50
+"arbusto em caelid/vilarejo da ravina, lapides na arena do godrick, templo de eiglay 3 e mansão vulcanica 13",244,0,200,200,200,200,25,200,50,100,-1,-1,50
+taças de pedra em academia raya lucaria 1 e taças de pedra em ruina de farum azula 2,245,50,50,50,50,50,25,50,-1,100,-1,-1,-1
+livros e mobilia de salão de estudos cariano e estantes de academia de raya lucaria,246,0,25,25,25,25,25,50,-1,100,-1,-1,-1
+"arbusto em castelo tempesveu, tronco pequeno de arvore morta em rio siofra, Nokstella 7 e mansão vulcanica 14",247,25,100,100,100,100,25,100,50,100,-1,-1,50
+"templo de eiglay 4, escombros em rio siofra, mansão vulcanica 15 e academia de raya lucaria 11",248,50,50,50,50,50,25,100,50,100,-1,-1,50
+"pedras do rio siofra 6, templo de eiglay 5, degraus do chafariz de academia de raya lucaria e Nokstella 8",249,25,100,100,100,100,25,100,200,100,-1,-1,50
+lápide em rio siofra,250,0,0,0,0,0,25,100,-1,100,-1,-1,-1
+mansão vulcanica 16,251,0,50,50,50,50,25,50,50,100,-1,-1,50
+templo de eiglay 6,252,50,50,50,50,50,25,100,50,100,-1,-1,50
+"gaiolas em academia de raya lucaria, porta de madeira em leyndell em cinzas e arvores pequenas em academia de raya lucaria",253,0,25,50,50,50,25,200,-1,100,-1,-1,-1
+guarda corpo da academia de raya lucaria e mansão vulcanica 17,254,50,100,100,100,100,25,200,50,100,-1,-1,50
+"leyndell 3, mansão vulcanica 18, academia de raya lucaria 12 e taças de pedra em academia raya lucaria 2",255,25,100,100,100,100,25,400,50,100,-1,-1,50
+"leyndell 4, edificações de ruina de farum azula 1, mansão vulcanica 19 e arvore morta em mansão vulcanica",256,25,100,100,100,100,100,800,50,100,-1,-1,50
+"pedras do rio siofra 7, edificações de ruina de farum azula 2 e leyndell 5",257,50,50,50,50,50,100,800,200,100,-1,-1,50
+pedras do rio siofra 8 e ruinas do rio siofra 8,258,0,0,0,0,0,100,800,200,100,-1,-1,50
+Nokstella 9 e cristais de esconderijo de sellia,259,0,0,0,0,0,100,200,-1,100,-1,-1,-1
+pedras do palacio de Mohgwyn 4 e pedras do rio siofra 9,260,0,25,25,25,25,100,1000,200,100,-1,-1,50
+edificações de ruina de farum azula 3,261,200,200,200,200,200,25,800,50,100,-1,-1,50
+"dragão de leyndell, edificações de ruina de farum azula 4 e pedras do rio siofra 10",262,50,100,200,200,200,400,800,200,100,-1,-1,50
+academia de raya lucaria 13,263,0,200,200,200,200,25,250,-1,100,-1,-1,-1
+fungos e trepadeiras em elphael,264,0,25,25,25,25,25,50,-1,100,-1,-1,-1
+pilares engastados em elphael,265,0,0,0,0,0,-1,50,-1,100,-1,-1,-1
+flores da arena do godrick e blocos de pedra em leyndell,266,50,50,50,50,50,25,200,-1,100,-1,-1,-1
+"raizes finas/arvores de elphael, blocos de pedra de leyndell em cinzas e copa de arvore em arvore sacra",267,0,200,200,200,200,25,200,-1,100,-1,-1,-1
+"pedras medianas em leyndell, leyndell 6, arvores de leyndell 5 e leyndell em cinzas 1",268,50,50,100,100,100,-1,400,50,100,-1,-1,50
+"torres do muro interno de leyndell 1, arvores de ruina de farum azula e leyndell em cinzas 2",269,0,100,200,200,200,-1,400,50,100,-1,-1,50
+torres do muro interno de leyndell 2,270,0,0,0,0,0,-1,200,50,100,-1,-1,50
+ovos de formiga em arvore sacra e gosma em mausoleu da dinastia moghwyn,271,0,25,25,25,25,50,50,-1,100,-1,-1,-1
+leyndell de longe 2 e portal para torre de limgrave de longe,272,400,3200,3200,3200,3200,200,5000,-1,100,-1,4800,-1
+leyndell em cinzas 3,275,0,0,0,0,0,25,200,50,100,120,-1,50
+"ruinas do rio siofra 9, edificações de rio siofra 6 e pedras do rio siofra 11",276,0,800,800,800,800,200,800,200,100,160,-1,50
+"academia de raya lucaria 14, arvore negra em abismos da raiz profunda de longe, edificações de rio siofra 7 e pedras do rio siofra 12",277,400,400,400,400,400,200,400,200,100,200,-1,50
+"muro intermediario de leyndell, pedras do rio siofra 13, terreno de Nokron 4 e tumulo do heroi de gelmir",278,450,450,450,450,450,200,600,200,100,256,-1,50
+arvore sacra e edificações de rio siofra 8,279,400,1000,1000,1000,1000,25,1000,50,100,300,-1,50
+elevador de astel e portão de catacumbas do empalador,281,25,25,25,25,25,25,400,50,100,-1,-1,50
+"tornado de ruina de farum azula ",282,0,0,0,0,0,-1,25,-1,100,-1,-1,-1
+"portão de catacumbas turvaguas, entrada para cavernas da fenda do dragão, cavernas turvaguas e catacumbas de wyndham 2",285,25,25,25,25,25,25,100,50,100,-1,-1,50
+entrada de caverna do arvoredo/tunel pedrilhante de sellia/tuneis de limgrave de perto,287,25,50,50,50,50,25,100,50,100,-1,-1,50
+entrada de túnel altus/tuneis de limgrave/tunel pedrilhante de sellia de longe e saida de donzela sequestradora de longe,288,0,600,600,600,600,200,1000,-1,100,-1,100,-1
+entrada de cemiterio a deriva de longe,291,0,400,400,400,400,-1,400,-1,100,-1,100,-1
+copa das tervores menores,295,0,0,0,0,0,-1,2100,-1,100,-1,-1,-1
+interior de tumulo do heroi consagrado visto de fora,296,0,250,250,250,250,-1,250,-1,100,-1,100,-1
+leyndell 7,297,0,400,400,400,400,200,400,50,100,50,-1,50
+leyndell 8,298,400,400,400,400,400,350,600,50,100,90,-1,50
+leyndell 9,299,200,200,200,200,200,400,400,50,100,90,-1,50
+leyndell 10,300,0,400,400,400,400,200,600,50,100,130,-1,50
+leyndell 11,301,400,400,400,400,400,550,600,50,100,180,-1,50
+"terreno, construções de muito longe, torre de liurnia de muito longe e pedras de plato altus 5",305,0,0,0,0,0,2800,5800,200,100,-1,-1,50
+academia de raya lucaria de muito longe e muro externo de castelo tempesveu,307,0,0,0,0,0,400,1800,-1,100,-1,-1,-1
+vegetação ao fundo,314,0,0,0,0,0,-1,750,-1,100,-1,-1,-1
+arvores grandes,315,0,50,250,250,250,25,250,100,100,-1,-1,50
+arvores pequenas,316,0,50,200,200,200,25,200,50,100,-1,-1,50
+arbustos folha pequena,317,0,0,150,150,150,25,150,-1,100,-1,-1,-1
+personagem em corpo inteiro na tela de edição,318,15,15,15,15,15,-1,15,-1,100,-1,-1,-1
+bancos de interior de coliseu de limgrave,319,0,0,0,0,0,-1,50,-1,100,-1,-1,-1
+altar de marika em coliseu de limgrave,320,0,50,50,50,50,25,50,-1,100,-1,-1,-1
+coliseu de caelid e limgrave de perto,327,25,25,25,25,25,25,200,50,100,-1,-1,50
+coliseu de caelid de longe,328,0,0,0,0,0,400,1950,-1,100,-1,200,-1
