@@ -2,6 +2,7 @@
 *.rar
 *.zip
 *.7z
+_old
 
 # Ignore .bin and .bin.prev files
 *.bin
