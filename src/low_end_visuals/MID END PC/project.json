@@ -1,0 +1,20 @@
+{
+  "ProjectName": "Mid enc PC",
+  "GameRoot": "D:\\Games\\SteamLibrary\\steamapps\\common\\ELDEN RING\\Game",
+  "GameType": 8,
+  "PinnedParams": [
+    "WeatherParam",
+    "WeatherLotParam",
+    "PartsDrawParam",
+    "LoadBalancerParam",
+    "LoadBalancerNewDrawDistScaleParam_win64",
+    "GrassTypeParam_Lv2",
+    "GrassTypeParam_Lv1",
+    "GrassTypeParam"
+  ],
+  "PinnedRows": {},
+  "PinnedFields": {},
+  "UseLooseParams": false,
+  "PartialParams": false,
+  "LastFmgLanguageUsed": ""
+}
