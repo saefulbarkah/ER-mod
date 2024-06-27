@@ -1,0 +1,21 @@
+1. Place the regulation file you want to edit into the input folder.
+-If you already have a mod that edits the regulation file, use that one
+-Otherwise use the regulation file from you "ELDEN RING/Game" folder
+
+2. Run the Grass Editor.exe
+-If it doesn't start or instantly closes, make sure you have the .NET Desktop Runtime 8 installed.
+https://dotnet.microsoft.com/en-us/download/dotnet/8.0 
+
+3. Select multipliers for each category
+> -1: use my recommended setting
+> 0: skip this category
+> 1: reset this category to the vanilla value
+> *: your custom multiplier (values will get clamped automatically)
+
+4. The edited regulation file will appear in the output folder.
+!!I highly recommend using mod engine instead of overwriting the one in your game folder.
+
+Optional:
+Endorse the mod, report bugs or give feedback.
+https://www.nexusmods.com/eldenring/mods/2666
+https://discord.gg/e89dXQ9EkY
