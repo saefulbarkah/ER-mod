@@ -3,6 +3,7 @@
 *.zip
 *.7z
 _old
+.smithbox
 
 # Ignore .bin and .bin.prev files
 *.bin
