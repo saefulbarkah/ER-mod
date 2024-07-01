@@ -17,3 +17,7 @@
 ### 3. Launch Elden Ring
 
 - Jalankan `ELDEN RING MOD LAUNCHER` yang ada di desktop.
+
+
+# Optional
+- [How to setup Seamless Co op](https://github.com/saefulbarkah/ER-mod/blob/master/_guide/How%20To%20Mod%20No%20Steam/Setup/ELDEN%20RING/Mod_Engine/README.md)
