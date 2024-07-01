@@ -1,16 +1,14 @@
 {
-  "ProjectName": "Mid enc PC",
+  "ProjectName": "No Shadow, No Grass, No Rain, Optimization Draw Distance",
   "GameRoot": "D:\\Games\\SteamLibrary\\steamapps\\common\\ELDEN RING\\Game",
   "GameType": 8,
   "PinnedParams": [
-    "WeatherParam",
-    "WeatherLotParam",
-    "PartsDrawParam",
-    "LoadBalancerParam",
-    "LoadBalancerNewDrawDistScaleParam_win64",
-    "GrassTypeParam_Lv2",
+    "GrassLodRangeParam",
+    "GrassTypeParam",
     "GrassTypeParam_Lv1",
-    "GrassTypeParam"
+    "GrassTypeParam_Lv2",
+    "PartsDrawParam",
+    "LoadBalancerNewDrawDistScaleParam_win64"
   ],
   "PinnedRows": {},
   "PinnedFields": {},

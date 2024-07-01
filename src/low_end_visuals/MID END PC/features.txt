@@ -1,4 +1,0 @@
-- Shadow optimization
-- No Rain
-- Low Grass
-- LOD optimization
