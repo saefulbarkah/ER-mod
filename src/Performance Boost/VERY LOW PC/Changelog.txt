@@ -1,0 +1,7 @@
+1.0
+- DIsabled Shadow
+- Remove Grass
+- Disable Rain
+- Optimization Draw Distance (Trees, Building, Terrain, etc)
+- Remove lightning above Shadow of Erdtree
+- Reducing erdtree 
