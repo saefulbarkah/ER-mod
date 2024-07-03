@@ -3,11 +3,7 @@
   "GameRoot": "D:\\Games\\SteamLibrary\\steamapps\\common\\ELDEN RING\\Game",
   "GameType": 8,
   "PinnedParams": [],
-  "PinnedRows": {
-    "PartsDrawParam": [
-      845, 841, 45200, 42000, 49820, 49846, 49845, 49840, 47001, 11, 9995, 40000
-    ]
-  },
+  "PinnedRows": {},
   "PinnedFields": {},
   "UseLooseParams": false,
   "PartialParams": false,
