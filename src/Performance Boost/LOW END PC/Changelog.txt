@@ -4,10 +4,9 @@
 1.1
 - Update for 1.12.2 Elden Ring
 
-
 Features : 
 - No Shadow
-- Remove Grass
+- Low Grass
 - Disable Rain
 - Optimization Draw Distance (Tree, Building, Terrain, etc)
 - Remove lightning above Shadow of Erdtree
