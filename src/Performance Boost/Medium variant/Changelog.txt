@@ -4,6 +4,8 @@
 1.1
 - Update for 1.12.2 Elden Ring
 
+1.2
+- Fix missing terrain in location Hinterland area
 
 Features : 
 - Shadow Optimization
