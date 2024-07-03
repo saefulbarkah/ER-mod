@@ -1,0 +1,21 @@
+{
+  "ProjectName": "High variant",
+  "GameRoot": "D:\\Games\\SteamLibrary\\steamapps\\common\\ELDEN RING\\Game",
+  "GameType": 8,
+  "PinnedParams": [
+    "PartsDrawParam",
+    "WeatherParam",
+    "WeatherLotParam",
+    "BudgetParam",
+    "LoadBalancerNewDrawDistScaleParam_win64",
+    "LoadBalancerParam",
+    "GrassTypeParam",
+    "GrassTypeParam_Lv1",
+    "GrassTypeParam_Lv2"
+  ],
+  "PinnedRows": {},
+  "PinnedFields": {},
+  "UseLooseParams": false,
+  "PartialParams": false,
+  "LastFmgLanguageUsed": ""
+}

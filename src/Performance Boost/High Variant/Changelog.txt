@@ -1,0 +1,6 @@
+1.0
+- Update for 1.12.2 Elden Ring
+
+Features : 
+- Shadow Optimization
+- Low grass density
