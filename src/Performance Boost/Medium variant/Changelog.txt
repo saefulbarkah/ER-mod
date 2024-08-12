@@ -1,13 +1,4 @@
-1.0
-- Update for 1.12.1 Elden Ring
-
-1.1
-- Update for 1.12.2 Elden Ring
-
-1.2
-- Fix missing terrain in location Hinterland area
-
-Features : 
+## Features : 
 - Shadow Optimization
 - Low Grass
 - Disable Rain
@@ -15,3 +6,24 @@ Features :
 - Remove lightning above Shadow of Erdtree
 - Remove some part of erdtree include in DLC
 - Reduce LOD texture (Building, Terrain)
+
+## Changelog :
+
+1.5
+- Update for 1.13.1 Elden Ring
+
+1.4
+- Restore draw distance Building, tree, etc
+- Fix invisible player in Seamless Co op
+
+1.3
+- Update for 1.12.3 Elden Ring
+
+1.2
+- Fix missing terrain in location Hinterland area
+
+1.1
+- Update for 1.12.2 Elden Ring
+
+1.0
+- Update for 1.12.1 Elden Ring

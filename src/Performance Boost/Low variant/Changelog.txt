@@ -1,12 +1,3 @@
-1.0
-- Update for 1.12.1 Elden Ring
-
-1.1
-- Update for 1.12.2 Elden Ring
-
-1.2
-- Fix missing terrain in location Hinterland area
-
 Features : 
 - No Shadow
 - Low Grass
@@ -16,4 +7,26 @@ Features :
 - Remove some part of erdtree include in DLC
 - Reduce LOD texture (Building, Terrain)
 
-Note : If you feel like laggy in some place drop to 10-20Fps try to reload the game, i think that problems will occur when your VRAM is lower than 4GB.
+Note : If you experience lag in some areas, dropping to 10-20 FPS, try reloading the game. This issue may occur if your VRAM is below 4GB.
+
+
+Changelog :
+
+1.5
+- Update for 1.13.1 Elden Ring
+
+1.4
+- Fix invisible player in Seamless Co op
+
+1.3
+- Update for 1.12.3 Elden Ring
+
+1.2
+- Fix missing terrain in location Hinterland area
+
+1.1
+- Update for 1.12.2 Elden Ring
+
+1.0
+- Update for 1.12.1 Elden Ring
+
